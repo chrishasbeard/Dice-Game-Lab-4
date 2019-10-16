@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\Shooting Dice Aint Nice\Shooting Dice Aint Nice\obj\Debug\netcoreapp3.0\Shooting Dice Aint Nice.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\Shooting Dice Aint Nice\Shooting Dice Aint Nice\obj\Debug\netcoreapp3.0\Shooting Dice Aint Nice.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Shooting Dice Aint Nice\Shooting Dice Aint Nice\obj\Debug\netcoreapp3.0\Shooting Dice Aint Nice.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Shooting Dice Aint Nice\Shooting Dice Aint Nice\bin\Debug\netcoreapp3.0\Shooting Dice Aint Nice.exe
+C:\Users\Holmes HQ\source\repos\Shooting Dice Aint Nice\Shooting Dice Aint Nice\bin\Debug\netcoreapp3.0\Shooting Dice Aint Nice.deps.json
+C:\Users\Holmes HQ\source\repos\Shooting Dice Aint Nice\Shooting Dice Aint Nice\bin\Debug\netcoreapp3.0\Shooting Dice Aint Nice.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Shooting Dice Aint Nice\Shooting Dice Aint Nice\bin\Debug\netcoreapp3.0\Shooting Dice Aint Nice.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Shooting Dice Aint Nice\Shooting Dice Aint Nice\bin\Debug\netcoreapp3.0\Shooting Dice Aint Nice.dll
+C:\Users\Holmes HQ\source\repos\Shooting Dice Aint Nice\Shooting Dice Aint Nice\bin\Debug\netcoreapp3.0\Shooting Dice Aint Nice.pdb
+C:\Users\Holmes HQ\source\repos\Shooting Dice Aint Nice\Shooting Dice Aint Nice\obj\Debug\netcoreapp3.0\Shooting Dice Aint Nice.dll
+C:\Users\Holmes HQ\source\repos\Shooting Dice Aint Nice\Shooting Dice Aint Nice\obj\Debug\netcoreapp3.0\Shooting Dice Aint Nice.pdb
