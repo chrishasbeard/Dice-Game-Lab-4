@@ -10,7 +10,7 @@ namespace Shooting_Dice_Aint_Nice
             while (RollingDice())
             {
                 Console.WriteLine("How many sides would you like your dice to have?");
-                int numberSides;
+                int numberSides,dice1,dice2;
                 
                 while (!int.TryParse(Console.ReadLine(), out numberSides))
                 {
@@ -18,12 +18,25 @@ namespace Shooting_Dice_Aint_Nice
                 }
                  //create a way to validate that a valid inpur has been entered
                 Random rand1 = new Random();
-                int dice1 = rand1.Next(1, numberSides + 1); // create method to generate the random numbers
-                int dice2 = rand1.Next(1, numberSides + 1);
+                dice1 = rand1.Next(1, numberSides + 1); 
+                dice2 = rand1.Next(1, numberSides + 1);
                 Console.WriteLine($"Your numbers are {dice1}, and {dice2}");
+                if (dice1 ==  1 && dice2 == 1)
+                {
+                    dice1 = 1;
+                    dice2 = 1;
+                    Console.WriteLine("Congrats! Snake Eyes!");
+                }
+                else if (dice1 == 6 && dice1 == 6)
+                {
+                    dice2 = 6;
+                    dice1 = 6;
+                    Console.WriteLine("Congrats! Box Car!");
+
+                }
             }
 
-                    //create messages for if a boxcar or snake eyes has been generated
+                   
         } 
         public static bool RollingDice()
         {
@@ -40,6 +53,6 @@ namespace Shooting_Dice_Aint_Nice
                 default:
                     return RollingDice();
             }
-        }
+        }       
     }
 }
